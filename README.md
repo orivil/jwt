@@ -1,6 +1,6 @@
-# golang JWT tool
+# golang JWT(JSON Web Token) tool
 
-JWT(JSON Web Token) implemented the [RFC7519](https://tools.ietf.org/html/rfc7519)
+Package `jwt` implemented the [RFC7519](https://tools.ietf.org/html/rfc7519)
 
 Usage:
 ```go
